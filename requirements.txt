@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+scikit-surprise
+tensorflow
+keras
+shap
+lime
+tqdm
